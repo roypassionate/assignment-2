@@ -270,6 +270,10 @@ footer{
     list-style-type: none;
     text-decoration: none;
 }
+.hull{
+    background-image: url(../assets/bg.png);
+}
+
 
 
 
